@@ -6677,6 +6677,26 @@
   ],
   "user_courses": [
     {
+      "id": 1,
+      "userId": 1,
+      "purchased": [
+        {
+          "courseId": 9,
+          "total": 2,
+          "used": 1
+        }
+      ],
+      "attendTime": [
+        {
+          "uid": "iUui",
+          "courseId": 9,
+          "date": "2024/06/17",
+          "time": "11:00",
+          "isCheck": true
+        }
+      ]
+    },
+    {
       "userId": 2,
       "purchased": [],
       "attendTime": [],
